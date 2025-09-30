@@ -94,6 +94,7 @@ def print_honor_list():
         "10- 'drose",
         "11- ArchieN",
         "12- Thereaqerx"
+        "12- n0name'"
     ]
     
     for member in honor_members:
