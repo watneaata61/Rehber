@@ -93,6 +93,7 @@ def print_honor_list():
         "9- Baysal",
         "10- 'drose",
         "11- ArchieN",
+        "12- Thereaqerx"
     ]
     
     for member in honor_members:
