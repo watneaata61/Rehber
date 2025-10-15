@@ -496,6 +496,7 @@ def create_roadmap_html():
                             <li><a href="https://www.youtube.com/@ryan_phdsec/videos" target="_blank">Ryan John</a></li>
                             <li><a href="https://book.hacktricks.wiki/en/index.html" target="_blank">Hacktricks</a></li>
                             <li><a href="https://portswigger.net/web-security" target="_blank">Portswigger</a></li>
+                            <li><a href="https://www.turkhackteam.org/konular/tht-cyber-star-hacking-hacker-egitim-seti-turkiyede-ilk-ucretsiz.1960243/" target="_blank">ÜCRETSİZ EĞİTİM - HİÇ SAĞ SOLA BAKMA</a></li>
                         </ul>
                     </div>
                 </div>
