@@ -541,6 +541,10 @@ def create_roadmap_html():
                         <h3>SSRF</h3>
                         <p>Server-Side Request Forgery</p>
                     </a>
+                    <a href="https://www.turkhackteam.org/konular/adan-zye-server-side-request-forgery-ssrf.1996477/" target="_blank" class="vuln-item">
+                        <h3>SSRF A-Z</h3>
+                        <p>Server-Side Request Forgery</p>
+                    </a>
                     <a href="https://www.turkhackteam.org/konular/web-hacking-101-serisi-csrf-final.2038481/" target="_blank" class="vuln-item">
                         <h3>CSRF</h3>
                         <p>Cross-Site Request Forgery</p>
