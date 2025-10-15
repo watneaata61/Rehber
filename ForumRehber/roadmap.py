@@ -545,7 +545,7 @@ def create_roadmap_html():
                         <h3>CSRF</h3>
                         <p>Cross-Site Request Forgery</p>
                     </a>
-                    <a href="hhttps://www.turkhackteam.org/konular/site-hackleme-rehberi-4.1989338/" target="_blank" class="vuln-item">
+                    <a href="https://www.turkhackteam.org/konular/site-hackleme-rehberi-4.1989338/" target="_blank" class="vuln-item">
                         <h3>RCE</h3>
                     </a>
                 </div>
